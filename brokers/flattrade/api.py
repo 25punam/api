@@ -440,11 +440,11 @@ def get_past_candle_for_instrument(api_obj, token, interval="minute", no_of_days
 '''
 curr_dir = os.path.dirname(os.path.dirname(__file__))
 
-USER = "FZ19143" # Flattrade user id
-PWD = "Punam*25" # Password
-TOTP_KEY = "5333LO57KL673P74Y425666ZA3QS46E4" 
-API_KEY = "836113cf8b984e6696e76b93d1bbbcac"
-API_SECRET = "2025.9c5af031bbb64e83b79f9887c641c6b5060ac56708d8c2b8"
+USER = "" # Flattrade user id
+PWD = "" # Password
+TOTP_KEY = "" 
+API_KEY = ""
+API_SECRET = ""
 RURL = "https://127.0.0.1:5000/?"
 
 ###############################################################
